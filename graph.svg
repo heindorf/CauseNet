@@ -1,0 +1,4272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="870.06903"
+   height="575.63397"
+   viewBox="-360.66968 -230.95601 870.06903 575.63397"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="graph.svg">
+  <metadata
+     id="metadata1448">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Neo4j Graph Visualization</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1446" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="716"
+     id="namedview1444"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.44619302"
+     inkscape:cx="786.01299"
+     inkscape:cy="4.1621724"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Neo4j Graph Visualization</title>
+  <desc
+     id="desc6">Created using Neo4j (http://www.neo4j.com/)</desc>
+  <g
+     class="layer relationships"
+     id="g8"
+     transform="translate(-2.9999977,-2.9999989)">
+    <g
+       class="relationship"
+       transform="matrix(-0.9999721,-0.00746977,0.00746977,-0.9999721,44.899555,65.858066)"
+       id="g10">
+      <path
+         class="outline"
+         d="m 40,0.5 122.56466,0 0,-1 L 40,-0.5 Z m 152.01466,0 122.56466,0 0,3 7,-3.5 -7,-3.5 0,3 -122.56466,0 z"
+         id="path12"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="177.28966"
+         y="3"
+         transform="matrix(-1,0,0,-1,354.57932,0)"
+         id="text14"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">cause</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.99934807,-0.0361032,0.0361032,0.99934807,44.899555,65.858066)"
+       id="g16">
+      <path
+         class="outline"
+         d="m 40,0.5 155.44734,0 0,-1 L 40,-0.5 Z m 184.33067,0 155.44733,0 0,3 7,-3.5 -7,-3.5 0,3 -155.44733,0 z"
+         id="path18"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="209.88901"
+         y="3"
+         id="text20"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">effect</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.98030362,-0.19749638,0.19749638,-0.98030362,44.899555,65.858066)"
+       id="g22">
+      <path
+         class="outline"
+         d="m 40,0.5 29.30328,0 0,-1 L 40,-0.5 Z m 74.26995,0 29.30328,0 0,3 7,-3.5 -7,-3.5 0,3 -29.30328,0 z"
+         id="path24"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="91.786613"
+         y="3"
+         transform="matrix(-1,0,0,-1,183.57323,0)"
+         id="text26"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.4368676,0.89952582,-0.89952582,-0.4368676,44.899555,65.858066)"
+       id="g28">
+      <path
+         class="outline"
+         d="m 40,0.5 2.678824,0 0,-1 L 40,-0.5 Z m 47.645491,0 2.678824,0 0,3 7,-3.5 -7,-3.5 0,3 -2.678824,0 z"
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="65.162155"
+         y="3"
+         transform="matrix(-1,0,0,-1,130.32432,0)"
+         id="text32"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.97685946,0.21388218,-0.21388218,-0.97685946,44.899555,65.858066)"
+       id="g34">
+      <path
+         class="outline"
+         d="m 40,0.5 51.402823,0 0,-1 L 40,-0.5 Z m 96.36949,0 51.40282,0 0,3 7,-3.5 -7,-3.5 0,3 -51.40282,0 z"
+         id="path36"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="113.88615"
+         y="3"
+         transform="matrix(-1,0,0,-1,227.77231,0)"
+         id="text38"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.996461,-0.08405643,0.08405643,-0.996461,44.899555,65.858066)"
+       id="g40">
+      <path
+         class="outline"
+         d="m 40,0.5 64.54686,0 0,-1 L 40,-0.5 Z m 109.51353,0 64.54687,0 0,3 7,-3.5 -7,-3.5 0,3 -64.54687,0 z"
+         id="path42"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="127.0302"
+         y="3"
+         transform="matrix(-1,0,0,-1,254.0604,0)"
+         id="text44"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.39615528,-0.91818353,0.91818353,-0.39615528,44.899555,65.858066)"
+       id="g46">
+      <path
+         class="outline"
+         d="m 40,0.5 1.821885,0 0,-1 L 40,-0.5 Z m 37.355218,0 1.821885,0 0,3 7,-3.5 -7,-3.5 0,3 -1.821885,0 z"
+         id="path48"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="59.588551"
+         y="3"
+         transform="matrix(-1,0,0,-1,119.1771,0)"
+         id="text50"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claim…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.74429441,0.66785165,-0.66785165,-0.74429441,44.899555,65.858066)"
+       id="g52">
+      <path
+         class="outline"
+         d="m 40,0.5 26.256732,0 0,-1 L 40,-0.5 Z m 71.2234,0 26.25673,0 0,3 7,-3.5 -7,-3.5 0,3 -26.25673,0 z"
+         id="path54"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="88.740067"
+         y="3"
+         transform="matrix(-1,0,0,-1,177.48013,0)"
+         id="text56"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.45712564,0.88940213,-0.88940213,-0.45712564,44.899555,65.858066)"
+       id="g58">
+      <path
+         class="outline"
+         d="m 40,0.5 77.36599,0 0,-1 L 40,-0.5 Z m 122.33266,0 77.36599,0 0,3 7,-3.5 -7,-3.5 0,3 -77.36599,0 z"
+         id="path60"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="139.84932"
+         y="3"
+         transform="matrix(-1,0,0,-1,279.69865,0)"
+         id="text62"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.87123959,0.490858,-0.490858,-0.87123959,44.899555,65.858066)"
+       id="g64">
+      <path
+         class="outline"
+         d="m 40,0.5 7.802779,0 0,-1 L 40,-0.5 Z m 7.802779,0 7.80278,0 0,3 7,-3.5 -7,-3.5 0,3 -7.80278,0 z"
+         id="path66"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="47.80278"
+         y="3"
+         transform="matrix(-1,0,0,-1,95.605559,0)"
+         id="text68"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000" />
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.45058973,0.89273114,-0.89273114,-0.45058973,44.899555,65.858066)"
+       id="g70">
+      <path
+         class="outline"
+         d="m 40,0.5 39.998733,0 0,-1 L 40,-0.5 Z m 84.9654,0 39.99873,0 0,3 7,-3.5 -7,-3.5 0,3 -39.99873,0 z"
+         id="path72"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="102.48206"
+         y="3"
+         transform="matrix(-1,0,0,-1,204.96413,0)"
+         id="text74"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.20933104,0.97784483,-0.97784483,-0.20933104,44.899555,65.858066)"
+       id="g76">
+      <path
+         class="outline"
+         d="m 40,0.5 63.79892,0 0,-1 L 40,-0.5 Z m 108.76558,0 63.79892,0 0,3 7,-3.5 -7,-3.5 0,3 -63.79892,0 z"
+         id="path78"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="126.28225"
+         y="3"
+         transform="matrix(-1,0,0,-1,252.5645,0)"
+         id="text80"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.30775025,0.95146718,-0.95146718,0.30775025,44.899555,65.858066)"
+       id="g82">
+      <path
+         class="outline"
+         d="m 40,0.5 31.494722,0 0,-1 L 40,-0.5 Z m 76.46139,0 31.49472,0 0,3 7,-3.5 -7,-3.5 0,3 -31.49472,0 z"
+         id="path84"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="93.978058"
+         y="3"
+         id="text86"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.09007669,0.99593483,-0.99593483,0.09007669,44.899555,65.858066)"
+       id="g88">
+      <path
+         class="outline"
+         d="m 40,0.5 60.44224,0 0,-1 L 40,-0.5 Z m 105.40891,0 60.44224,0 0,3 7,-3.5 -7,-3.5 0,3 -60.44224,0 z"
+         id="path90"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="122.92558"
+         y="3"
+         id="text92"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.78872191,0.61475015,-0.61475015,0.78872191,44.899555,65.858066)"
+       id="g94">
+      <path
+         class="outline"
+         d="m 40,0.5 68.23466,0 0,-1 L 40,-0.5 Z m 113.20133,0 68.23467,0 0,3 7,-3.5 -7,-3.5 0,3 -68.23467,0 z"
+         id="path96"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="130.718"
+         y="3"
+         id="text98"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.63716484,0.77072756,-0.77072756,0.63716484,44.899555,65.858066)"
+       id="g100">
+      <path
+         class="outline"
+         d="m 40,0.5 10.833914,0 0,-1 L 40,-0.5 Z m 55.800581,0 10.833919,0 0,3 7,-3.5 -7,-3.5 0,3 -10.833919,0 z"
+         id="path102"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="73.317245"
+         y="3"
+         id="text104"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.94249314,0.33422549,-0.33422549,0.94249314,44.899555,65.858066)"
+       id="g106">
+      <path
+         class="outline"
+         d="m 40,0.5 1.547509,0 0,-1 L 40,-0.5 Z m 41.99751,0 1.547509,0 0,3 7,-3.5 -7,-3.5 0,3 -1.547509,0 z"
+         id="path108"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="61.772511"
+         y="3"
+         id="text110"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claime…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.9908322,0.13509831,-0.13509831,0.9908322,44.899555,65.858066)"
+       id="g112">
+      <path
+         class="outline"
+         d="m 40,0.5 33.21729,0 0,-1 L 40,-0.5 Z m 78.18396,0 33.21729,0 0,3 7,-3.5 -7,-3.5 0,3 -33.21729,0 z"
+         id="path114"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="95.700623"
+         y="3"
+         id="text116"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.3719584,0.9282494,-0.9282494,0.3719584,44.899555,65.858066)"
+       id="g118">
+      <path
+         class="outline"
+         d="m 40,0.5 68.14422,0 0,-1 L 40,-0.5 Z m 113.11089,0 68.14421,0 0,3 7,-3.5 -7,-3.5 0,3 -68.14421,0 z"
+         id="path120"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="130.62755"
+         y="3"
+         id="text122"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.09530735,0.99544789,-0.99544789,-0.09530735,44.899555,65.858066)"
+       id="g124">
+      <path
+         class="outline"
+         d="m 40,0.5 28.507446,0 0,-1 L 40,-0.5 Z m 73.47411,0 28.50745,0 0,3 7,-3.5 -7,-3.5 0,3 -28.50745,0 z"
+         id="path126"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="90.990776"
+         y="3"
+         transform="matrix(-1,0,0,-1,181.98156,0)"
+         id="text128"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.97651674,-0.21544154,0.21544154,0.97651674,44.899555,65.858066)"
+       id="g130">
+      <path
+         class="outline"
+         d="m 40,0.5 9.801888,0 0,-1 L 40,-0.5 Z m 54.768555,0 9.801885,0 0,3 7,-3.5 -7,-3.5 0,3 -9.801885,0 z"
+         id="path132"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="72.285225"
+         y="3"
+         id="text134"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.60124808,0.79906241,-0.79906241,0.60124808,44.899555,65.858066)"
+       id="g136">
+      <path
+         class="outline"
+         d="m 40,0.5 48.015574,0 0,-1 L 40,-0.5 Z m 92.98224,0 48.01558,0 0,3 7,-3.5 -7,-3.5 0,3 -48.01558,0 z"
+         id="path138"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="110.49891"
+         y="3"
+         id="text140"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.86343132,0.50446642,-0.50446642,0.86343132,44.899555,65.858066)"
+       id="g142">
+      <path
+         class="outline"
+         d="m 40,0.5 33.859503,0 0,-1 L 40,-0.5 Z m 78.82617,0 33.8595,0 0,3 7,-3.5 -7,-3.5 0,3 -33.8595,0 z"
+         id="path144"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="96.342834"
+         y="3"
+         id="text146"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.72239714,-0.69147839,0.69147839,0.72239714,44.899555,65.858066)"
+       id="g148">
+      <path
+         class="outline"
+         d="m 40,0.5 1.152404,0 0,-1 L 40,-0.5 Z m 36.685737,0 1.152404,0 0,3 7,-3.5 -7,-3.5 0,3 -1.152404,0 z"
+         id="path150"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="58.919071"
+         y="3"
+         id="text152"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claim…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.93408713,0.35704513,-0.35704513,0.93408713,44.899555,65.858066)"
+       id="g154">
+      <path
+         class="outline"
+         d="m 40,0.5 66.571,0 0,-1 -66.571,0 z m 111.53767,0 66.57099,0 0,3 7,-3.5 -7,-3.5 0,3 -66.57099,0 z"
+         id="path156"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="129.05434"
+         y="3"
+         id="text158"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.15604885,0.98774934,-0.98774934,0.15604885,44.899555,65.858066)"
+       id="g160">
+      <path
+         class="outline"
+         d="m 40,0.5 0.533933,0 0,-1 L 40,-0.5 Z m 36.067266,0 0.533933,0 0,3 7,-3.5 -7,-3.5 0,3 -0.533933,0 z"
+         id="path162"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="58.300598"
+         y="3"
+         id="text164"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claim…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.99692663,0.07834093,-0.07834093,0.99692663,44.899555,65.858066)"
+       id="g166">
+      <path
+         class="outline"
+         d="m 40,0.5 70.06735,0 0,-1 L 40,-0.5 Z m 115.03401,0 70.06735,0 0,3 7,-3.5 -7,-3.5 0,3 -70.06735,0 z"
+         id="path168"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="132.55067"
+         y="3"
+         id="text170"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.21564905,-0.97647093,0.97647093,0.21564905,44.899555,65.858066)"
+       id="g172">
+      <path
+         class="outline"
+         d="m 40,0.5 4.880663,0 0,-1 L 40,-0.5 Z m 49.84733,0 4.880664,0 0,3 6.999996,-3.5 -6.999996,-3.5 0,3 -4.880664,0 z"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="67.363998"
+         y="3"
+         id="text176"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.98649608,-0.16378485,0.16378485,0.98649608,44.899555,65.858066)"
+       id="g178">
+      <path
+         class="outline"
+         d="m 40,0.5 86.01765,0 0,-1 L 40,-0.5 Z m 130.98432,0 86.01765,0 0,3 7,-3.5 -7,-3.5 0,3 -86.01765,0 z"
+         id="path180"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="148.50099"
+         y="3"
+         id="text182"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.83089254,-0.55643292,0.55643292,0.83089254,44.899555,65.858066)"
+       id="g184">
+      <path
+         class="outline"
+         d="m 40,0.5 31.586726,0 0,-1 L 40,-0.5 Z m 76.55339,0 31.58673,0 0,3 7,-3.5 -7,-3.5 0,3 -31.58673,0 z"
+         id="path186"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="94.070061"
+         y="3"
+         id="text188"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.87138307,-0.49060324,0.49060324,0.87138307,44.899555,65.858066)"
+       id="g190">
+      <path
+         class="outline"
+         d="m 40,0.5 68.04901,0 0,-1 L 40,-0.5 Z m 113.01567,0 68.04901,0 0,3 7,-3.5 -7,-3.5 0,3 -68.04901,0 z"
+         id="path192"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="130.53233"
+         y="3"
+         id="text194"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.45211281,-0.89196076,0.89196076,0.45211281,44.899555,65.858066)"
+       id="g196">
+      <path
+         class="outline"
+         d="m 40,0.5 65.4808,0 0,-1 L 40,-0.5 Z m 110.44747,0 65.4808,0 0,3 7,-3.5 -7,-3.5 0,3 -65.4808,0 z"
+         id="path198"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="127.96413"
+         y="3"
+         id="text200"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.69361152,-0.72034926,0.72034926,0.69361152,44.899555,65.858066)"
+       id="g202">
+      <path
+         class="outline"
+         d="m 40,0.5 61.16524,0 0,-1 L 40,-0.5 Z m 106.13191,0 61.16524,0 0,3 7,-3.5 -7,-3.5 0,3 -61.16524,0 z"
+         id="path204"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="123.64857"
+         y="3"
+         id="text206"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.54437523,-0.83884182,0.83884182,0.54437523,44.899555,65.858066)"
+       id="g208">
+      <path
+         class="outline"
+         d="m 40,0.5 29.769926,0 0,-1 L 40,-0.5 Z m 74.73659,0 29.76993,0 0,3 7,-3.5 -7,-3.5 0,3 -29.76993,0 z"
+         id="path210"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="92.253258"
+         y="3"
+         id="text212"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.21272278,-0.97711259,0.97711259,0.21272278,44.899555,65.858066)"
+       id="g214">
+      <path
+         class="outline"
+         d="m 40,0.5 42.36788,0 0,-1 L 40,-0.5 Z m 87.33455,0 42.36788,0 0,3 7,-3.5 -7,-3.5 0,3 -42.36788,0 z"
+         id="path216"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="104.85121"
+         y="3"
+         id="text218"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.81541375,-0.57887858,0.57887858,-0.81541375,44.899555,65.858066)"
+       id="g220">
+      <path
+         class="outline"
+         d="m 40,0.5 26.197536,0 0,-1 L 40,-0.5 Z m 71.1642,0 26.19754,0 0,3 7,-3.5 -7,-3.5 0,3 -26.19754,0 z"
+         id="path222"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="88.68087"
+         y="3"
+         transform="matrix(-1,0,0,-1,177.36174,0)"
+         id="text224"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.5216446,-0.85316289,0.85316289,-0.5216446,44.899555,65.858066)"
+       id="g226">
+      <path
+         class="outline"
+         d="m 40,0.5 33.015449,0 0,-1 L 40,-0.5 Z m 77.98212,0 33.01545,0 0,3 7,-3.5 -7,-3.5 0,3 -33.01545,0 z"
+         id="path228"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="95.498779"
+         y="3"
+         transform="matrix(-1,0,0,-1,190.99757,0)"
+         id="text230"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.14633842,-0.98923459,0.98923459,-0.14633842,44.899555,65.858066)"
+       id="g232">
+      <path
+         class="outline"
+         d="m 40,0.5 29.273304,0 0,-1 L 40,-0.5 Z m 74.23997,0 29.27331,0 0,3 7,-3.5 -7,-3.5 0,3 -29.27331,0 z"
+         id="path234"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="91.756638"
+         y="3"
+         transform="matrix(-1,0,0,-1,183.51328,0)"
+         id="text236"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.02037654,-0.99979238,0.99979238,-0.02037654,44.899555,65.858066)"
+       id="g238">
+      <path
+         class="outline"
+         d="m 40,0.5 67.95074,0 0,-1 L 40,-0.5 Z m 112.9174,0 67.95074,0 0,3 7,-3.5 -7,-3.5 0,3 -67.95074,0 z"
+         id="path240"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="130.43407"
+         y="3"
+         transform="matrix(-1,0,0,-1,260.86814,0)"
+         id="text242"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.30692964,-0.95173221,0.95173221,-0.30692964,44.899555,65.858066)"
+       id="g244">
+      <path
+         class="outline"
+         d="m 40,0.5 62.30031,0 0,-1 L 40,-0.5 Z m 107.26698,0 62.30031,0 0,3 7,-3.5 -7,-3.5 0,3 -62.30031,0 z"
+         id="path246"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="124.78365"
+         y="3"
+         transform="matrix(-1,0,0,-1,249.56729,0)"
+         id="text248"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.56319641,-0.82632306,0.82632306,-0.56319641,44.899555,65.858066)"
+       id="g250">
+      <path
+         class="outline"
+         d="m 40,0.5 70.00855,0 0,-1 L 40,-0.5 Z m 114.97522,0 70.00854,0 0,3 7,-3.5 -7,-3.5 0,3 -70.00854,0 z"
+         id="path252"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="132.49188"
+         y="3"
+         transform="matrix(-1,0,0,-1,264.98376,0)"
+         id="text254"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.7738285,-0.63339518,0.63339518,-0.7738285,44.899555,65.858066)"
+       id="g256">
+      <path
+         class="outline"
+         d="m 40,0.5 62.92652,0 0,-1 L 40,-0.5 Z m 107.89319,0 62.92652,0 0,3 7,-3.5 -7,-3.5 0,3 -62.92652,0 z"
+         id="path258"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="125.40985"
+         y="3"
+         transform="matrix(-1,0,0,-1,250.81971,0)"
+         id="text260"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.92717075,-0.37463903,0.37463903,-0.92717075,44.899555,65.858066)"
+       id="g262">
+      <path
+         class="outline"
+         d="m 40,0.5 61.17262,0 0,-1 L 40,-0.5 Z m 106.13929,0 61.17261,0 0,3 7,-3.5 -7,-3.5 0,3 -61.17261,0 z"
+         id="path264"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="123.65595"
+         y="3"
+         transform="matrix(-1,0,0,-1,247.3119,0)"
+         id="text266"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.93705412,-0.34918415,0.34918415,-0.93705412,44.899555,65.858066)"
+       id="g268">
+      <path
+         class="outline"
+         d="m 40,0.5 2.293967,0 0,-1 L 40,-0.5 Z m 30.0273,0 2.293967,0 0,3 7,-3.5 -7,-3.5 0,3 -2.293967,0 z"
+         id="path270"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="56.160633"
+         y="3"
+         transform="matrix(-1,0,0,-1,112.32127,0)"
+         id="text272"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">clai…</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.86300086,0.50520245,-0.50520245,-0.86300086,44.899555,65.858066)"
+       id="g274">
+      <path
+         class="outline"
+         d="m 40,0.5 57.486694,0 0,-1 L 40,-0.5 Z m 102.45336,0 57.4867,0 0,3 7,-3.5 -7,-3.5 0,3 -57.4867,0 z"
+         id="path276"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="119.97002"
+         y="3"
+         transform="matrix(-1,0,0,-1,239.94006,0)"
+         id="text278"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.97565811,0.2192972,-0.2192972,-0.97565811,44.899555,65.858066)"
+       id="g280">
+      <path
+         class="outline"
+         d="m 40,0.5 22.293195,0 0,-1 L 40,-0.5 Z m 67.25986,0 22.2932,0 0,3 7,-3.5 -7,-3.5 0,3 -22.2932,0 z"
+         id="path282"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="84.776527"
+         y="3"
+         transform="matrix(-1,0,0,-1,169.55306,0)"
+         id="text284"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(0.97126845,-0.23798655,0.23798655,0.97126845,44.899555,65.858066)"
+       id="g286">
+      <path
+         class="outline"
+         d="m 40,0.5 50.1764,0 0,-1 L 40,-0.5 Z m 95.14307,0 50.1764,0 0,3 7,-3.5 -7,-3.5 0,3 -50.1764,0 z"
+         id="path288"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="112.65974"
+         y="3"
+         id="text290"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+    <g
+       class="relationship"
+       transform="matrix(-0.67085591,0.74158772,-0.74158772,-0.67085591,44.899555,65.858066)"
+       id="g292">
+      <path
+         class="outline"
+         d="m 40,0.5 62.15019,0 0,-1 L 40,-0.5 Z m 107.11685,0 62.15019,0 0,3 7,-3.5 -7,-3.5 0,3 -62.15019,0 z"
+         id="path294"
+         inkscape:connector-curvature="0"
+         style="fill:#a5abb6;stroke:none" />
+      <text
+         pointer-events="none"
+         font-size="8px"
+         x="124.63352"
+         y="3"
+         transform="matrix(-1,0,0,-1,249.26704,0)"
+         id="text296"
+         style="font-size:8px;font-family:sans-serif;text-anchor:middle;fill:#000000">claimedIn</text>
+    </g>
+  </g>
+  <g
+     id="g300"
+     transform="translate(-319.66968,60.157151)"
+     class="node">
+    <circle
+       style="fill:#f79767;stroke:#f36924;stroke-width:2px"
+       id="circle302"
+       r="40"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:40px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text304"
+       font-size="40"
+       dy="2.5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text306"
+       font-size="10px"
+       y="5"
+       pointer-events="none">coronavirus</text>
+  </g>
+  <g
+     id="g308"
+     transform="translate(41.899557,62.858067)"
+     class="node">
+    <circle
+       style="fill:#57c7e3;stroke:#23b3d7;stroke-width:2px"
+       id="circle310"
+       r="40"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:40px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text312"
+       font-size="40"
+       dy="2.5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text314"
+       font-size="10px"
+       y="5"
+       pointer-events="none">mayCause</text>
+  </g>
+  <g
+     id="g316"
+     transform="translate(468.39933,47.450015)"
+     class="node">
+    <circle
+       style="fill:#f79767;stroke:#f36924;stroke-width:2px"
+       id="circle318"
+       r="40"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:40px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text320"
+       font-size="40"
+       dy="2.5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text322"
+       font-size="10px"
+       y="5"
+       pointer-events="none">sars</text>
+  </g>
+  <g
+     id="g324"
+     transform="translate(-137.56779,26.701768)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle326"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text328"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text330"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text332"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text334"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text336"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text338"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text340"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">On</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text342"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">April 16,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text344"
+       font-size="10px"
+       y="0"
+       pointer-events="none">the WHO</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text346"
+       font-size="10px"
+       y="10"
+       pointer-events="none">issued a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text348"
+       font-size="10px"
+       y="20"
+       pointer-events="none">press</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text350"
+       font-size="10px"
+       y="30"
+       pointer-events="none">rel…</text>
+  </g>
+  <g
+     id="g352"
+     transform="translate(-14.81648,179.63839)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle354"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text356"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text358"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text360"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text362"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text364"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text366"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text368"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">On</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text370"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">April 16,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text372"
+       font-size="10px"
+       y="0"
+       pointer-events="none">2003,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text374"
+       font-size="10px"
+       y="10"
+       pointer-events="none">following</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text376"
+       font-size="10px"
+       y="20"
+       pointer-events="none">the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text378"
+       font-size="10px"
+       y="30"
+       pointer-events="none">ou…</text>
+  </g>
+  <g
+     id="g380"
+     transform="translate(-180.11355,111.46756)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle382"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text384"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text386"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text388"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text390"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text392"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text394"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text396"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text398"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g400"
+     transform="translate(-210.76349,41.544686)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle402"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text404"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text406"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text408"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text410"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text412"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text414"
+       font-size="10px"
+       y="0"
+       pointer-events="none">was caused</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text416"
+       font-size="10px"
+       y="10"
+       pointer-events="none">by a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text418"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g420"
+     transform="translate(-5.1150038,-46.109294)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle422"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text424"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text426"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text428"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text430"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text432"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text434"
+       font-size="10px"
+       y="0"
+       pointer-events="none">was caused</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text436"
+       font-size="10px"
+       y="10"
+       pointer-events="none">by a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text438"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g440"
+     transform="translate(-89.825766,181.05454)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle442"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text444"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text446"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text448"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text450"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text452"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text454"
+       font-size="10px"
+       y="0"
+       pointer-events="none">was caused</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text456"
+       font-size="10px"
+       y="10"
+       pointer-events="none">by a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text458"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g460"
+     transform="translate(-85.729305,311.17794)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle462"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text464"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text466"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text468"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text470"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text472"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text474"
+       font-size="10px"
+       y="0"
+       pointer-events="none">was caused</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text476"
+       font-size="10px"
+       y="10"
+       pointer-events="none">by a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text478"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g480"
+     transform="translate(-40.960171,109.54139)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle482"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text484"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text486"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text488"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text490"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text492"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text494"
+       font-size="10px"
+       y="0"
+       pointer-events="none">was caused</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text496"
+       font-size="10px"
+       y="10"
+       pointer-events="none">by a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text498"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g500"
+     transform="translate(-50.229882,245.38957)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle502"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text504"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text506"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text508"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text510"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text512"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text514"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text516"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">It</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text518"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">took two</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text520"
+       font-size="10px"
+       y="0"
+       pointer-events="none">years just</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text522"
+       font-size="10px"
+       y="10"
+       pointer-events="none">to identify</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text524"
+       font-size="10px"
+       y="20"
+       pointer-events="none">the HIV</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text526"
+       font-size="10px"
+       y="30"
+       pointer-events="none">vir…</text>
+  </g>
+  <g
+     id="g528"
+     transform="translate(-10.865367,309.33804)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle530"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text532"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text534"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text536"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text538"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">Scientists</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text540"
+       font-size="10px"
+       y="5"
+       pointer-events="none">are now</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text542"
+       font-size="10px"
+       y="15"
+       pointer-events="none">trying to</text>
+  </g>
+  <g
+     id="g544"
+     transform="translate(99.589222,241.2164)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle546"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text548"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text550"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text552"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text554"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text556"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text558"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text560"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">Apr</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text562"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">17, 2003</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text564"
+       font-size="10px"
+       y="0"
+       pointer-events="none">WHO</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text566"
+       font-size="10px"
+       y="10"
+       pointer-events="none">cumulative</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text568"
+       font-size="10px"
+       y="20"
+       pointer-events="none">SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text570"
+       font-size="10px"
+       y="30"
+       pointer-events="none">tot…</text>
+  </g>
+  <g
+     id="g572"
+     transform="translate(63.999976,307.21182)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle574"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text576"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text578"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text580"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text582"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text584"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text586"
+       dy="2.03125"
+       font-size="32.5"
+       y="15"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text588"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">A</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text590"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">recently</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text592"
+       font-size="10px"
+       y="0"
+       pointer-events="none">identified</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text594"
+       font-size="10px"
+       y="10"
+       pointer-events="none">coronavirus</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text596"
+       font-size="10px"
+       y="20"
+       pointer-events="none">has been</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text598"
+       font-size="10px"
+       y="30"
+       pointer-events="none">po…</text>
+  </g>
+  <g
+     id="g600"
+     transform="translate(247.70549,223.26851)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle602"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text604"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text606"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text608"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text610"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text612"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text614"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">In fact,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text616"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">Mangel</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text618"
+       font-size="10px"
+       y="5"
+       pointer-events="none">has</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text620"
+       font-size="10px"
+       y="15"
+       pointer-events="none">recently</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text622"
+       font-size="10px"
+       y="25"
+       pointer-events="none">expan…</text>
+  </g>
+  <g
+     id="g624"
+     transform="translate(135.01132,175.48795)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle626"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text628"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text630"
+       font-size="10px"
+       y="5"
+       pointer-events="none">Researche…</text>
+  </g>
+  <g
+     id="g632"
+     transform="translate(157.86864,103.98285)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle634"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text636"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text638"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text640"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text642"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text644"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text646"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">Cause</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text648"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">of SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text650"
+       font-size="10px"
+       y="5"
+       pointer-events="none">has been</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text652"
+       font-size="10px"
+       y="15"
+       pointer-events="none">thought to</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text654"
+       font-size="10px"
+       y="25"
+       pointer-events="none">be a c…</text>
+  </g>
+  <g
+     id="g656"
+     transform="translate(231.05066,88.648503)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle658"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text660"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text662"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text664"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text666"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text668"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text670"
+       dy="2.03125"
+       font-size="32.5"
+       y="15"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text672"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">A</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text674"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">recently</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text676"
+       font-size="10px"
+       y="0"
+       pointer-events="none">identified</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text678"
+       font-size="10px"
+       y="10"
+       pointer-events="none">coronavirus</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text680"
+       font-size="10px"
+       y="20"
+       pointer-events="none">has been</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text682"
+       font-size="10px"
+       y="30"
+       pointer-events="none">po…</text>
+  </g>
+  <g
+     id="g684"
+     transform="translate(138.88961,304.90384)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle686"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text688"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text690"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text692"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text694"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text696"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text698"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">Cause</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text700"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">of SARS</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text702"
+       font-size="10px"
+       y="5"
+       pointer-events="none">has been</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text704"
+       font-size="10px"
+       y="15"
+       pointer-events="none">thought to</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text706"
+       font-size="10px"
+       y="25"
+       pointer-events="none">be a c…</text>
+  </g>
+  <g
+     id="g708"
+     transform="translate(24.60303,243.5135)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle710"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text712"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text714"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text716"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text718"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text720"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text722"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text724"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text726"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g728"
+     transform="translate(182.58675,31.81931)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle730"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text732"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text734"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text736"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text738"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text740"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text742"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text744"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">On</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text746"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">April 16,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text748"
+       font-size="10px"
+       y="0"
+       pointer-events="none">2003, the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text750"
+       font-size="10px"
+       y="10"
+       pointer-events="none">WHO</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text752"
+       font-size="10px"
+       y="20"
+       pointer-events="none">issued a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text754"
+       font-size="10px"
+       y="30"
+       pointer-events="none">pr…</text>
+  </g>
+  <g
+     id="g756"
+     transform="translate(174.47344,239.04958)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle758"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text760"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text762"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text764"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text766"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text768"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">In</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text770"
+       font-size="10px"
+       y="0"
+       pointer-events="none">addition,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text772"
+       font-size="10px"
+       y="10"
+       pointer-events="none">whether</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text774"
+       font-size="10px"
+       y="20"
+       pointer-events="none">the coro…</text>
+  </g>
+  <g
+     id="g776"
+     transform="translate(207.83868,159.80928)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle778"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text780"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text782"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text784"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text786"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text788"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text790"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">Two</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text792"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">weeks</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text794"
+       font-size="10px"
+       y="5"
+       pointer-events="none">ago, using</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text796"
+       font-size="10px"
+       y="15"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text798"
+       font-size="10px"
+       y="25"
+       pointer-events="none">techn…</text>
+  </g>
+  <g
+     id="g800"
+     transform="translate(126.66429,-18.278722)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle802"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text804"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text806"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text808"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text810"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text812"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text814"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text816"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text818"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g820"
+     transform="translate(282.52849,154.83599)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle822"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text824"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text826"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text828"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text830"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text832"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text834"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text836"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text838"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g840"
+     transform="translate(60.017015,177.53695)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle842"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text844"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text846"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text848"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text850"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text852"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text854"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text856"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">Dr</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text858"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">Rowland</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text860"
+       font-size="10px"
+       y="0"
+       pointer-events="none">believes</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text862"
+       font-size="10px"
+       y="10"
+       pointer-events="none">that the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text864"
+       font-size="10px"
+       y="20"
+       pointer-events="none">fact that</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text866"
+       font-size="10px"
+       y="30"
+       pointer-events="none">SA…</text>
+  </g>
+  <g
+     id="g868"
+     transform="translate(305.6877,83.587185)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle870"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text872"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text874"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text876"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text878"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text880"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text882"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text884"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">The</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text886"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">cause of</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text888"
+       font-size="10px"
+       y="0"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text890"
+       font-size="10px"
+       y="10"
+       pointer-events="none">now known</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text892"
+       font-size="10px"
+       y="20"
+       pointer-events="none">to be a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text894"
+       font-size="10px"
+       y="30"
+       pointer-events="none">co…</text>
+  </g>
+  <g
+     id="g896"
+     transform="translate(70.845697,-68.211667)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle898"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text900"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text902"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text904"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text906"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text908"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text910"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text912"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">But</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text914"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">some</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text916"
+       font-size="10px"
+       y="0"
+       pointer-events="none">new good</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text918"
+       font-size="10px"
+       y="10"
+       pointer-events="none">may come</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text920"
+       font-size="10px"
+       y="20"
+       pointer-events="none">out of all</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text922"
+       font-size="10px"
+       y="30"
+       pointer-events="none">th…</text>
+  </g>
+  <g
+     id="g924"
+     transform="translate(334.39759,14.295537)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle926"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text928"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text930"
+       font-size="10px"
+       y="5"
+       pointer-events="none">Researche…</text>
+  </g>
+  <g
+     id="g932"
+     transform="translate(197.80833,-41.551071)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle934"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text936"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text938"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text940"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text942"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text944"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text946"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text948"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">It</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text950"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">was</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text952"
+       font-size="10px"
+       y="0"
+       pointer-events="none">because</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text954"
+       font-size="10px"
+       y="10"
+       pointer-events="none">Malik Peiris</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text956"
+       font-size="10px"
+       y="20"
+       pointer-events="none">and</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text958"
+       font-size="10px"
+       y="30"
+       pointer-events="none">Gu…</text>
+  </g>
+  <g
+     id="g960"
+     transform="translate(268.95121,-64.975808)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle962"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text964"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text966"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text968"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text970"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text972"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text974"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">Severe</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text976"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">acute</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text978"
+       font-size="10px"
+       y="5"
+       pointer-events="none">respiratory</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text980"
+       font-size="10px"
+       y="15"
+       pointer-events="none">syndrome</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text982"
+       font-size="10px"
+       y="25"
+       pointer-events="none">or SA…</text>
+  </g>
+  <g
+     id="g984"
+     transform="translate(157.38195,-164.97393)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle986"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text988"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text990"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text992"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text994"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text996"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text998"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">From</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1000"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1002"
+       font-size="10px"
+       y="5"
+       pointer-events="none">laboratory</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1004"
+       font-size="10px"
+       y="15"
+       pointer-events="none">front, we</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1006"
+       font-size="10px"
+       y="25"
+       pointer-events="none">were</text>
+  </g>
+  <g
+     id="g1008"
+     transform="translate(213.0809,-114.92208)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1010"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1012"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1014"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1016"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1018"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1020"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1022"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1024"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">It</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1026"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">took four</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1028"
+       font-size="10px"
+       y="0"
+       pointer-events="none">weeks to</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1030"
+       font-size="10px"
+       y="10"
+       pointer-events="none">learn that</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1032"
+       font-size="10px"
+       y="20"
+       pointer-events="none">the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1034"
+       font-size="10px"
+       y="30"
+       pointer-events="none">co…</text>
+  </g>
+  <g
+     id="g1036"
+     transform="translate(142.06815,-91.494297)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1038"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1040"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1042"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1044"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1046"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1048"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1050"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1052"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1054"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1056"
+     transform="translate(86.401679,-141.55626)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1058"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1060"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1062"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1064"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1066"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1068"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">An</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1070"
+       font-size="10px"
+       y="0"
+       pointer-events="none">antibody</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1072"
+       font-size="10px"
+       y="10"
+       pointer-events="none">test and an</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1074"
+       font-size="10px"
+       y="20"
+       pointer-events="none">immuno…</text>
+  </g>
+  <g
+     id="g1076"
+     transform="translate(-102.31594,-39.523406)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1078"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1080"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1082"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1084"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1086"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1088"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1090"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">While</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1092"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">public</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1094"
+       font-size="10px"
+       y="5"
+       pointer-events="none">health</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1096"
+       font-size="10px"
+       y="15"
+       pointer-events="none">officials</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1098"
+       font-size="10px"
+       y="25"
+       pointer-events="none">and r…</text>
+  </g>
+  <g
+     id="g1100"
+     transform="translate(-57.472469,-99.667385)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1102"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1104"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1106"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1108"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1110"
+       dy="2.03125"
+       font-size="32.5"
+       y="10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1112"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1114"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">Despite</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1116"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">what the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1118"
+       font-size="10px"
+       y="5"
+       pointer-events="none">scientist</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1120"
+       font-size="10px"
+       y="15"
+       pointer-events="none">are</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1122"
+       font-size="10px"
+       y="25"
+       pointer-events="none">saying,</text>
+  </g>
+  <g
+     id="g1124"
+     transform="translate(15.117683,-118.185)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1126"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1128"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1130"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1132"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1134"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1136"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1138"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1140"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">Dr</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1142"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">Rowland</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1144"
+       font-size="10px"
+       y="0"
+       pointer-events="none">believes</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1146"
+       font-size="10px"
+       y="10"
+       pointer-events="none">that the</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1148"
+       font-size="10px"
+       y="20"
+       pointer-events="none">fact that</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1150"
+       font-size="10px"
+       y="30"
+       pointer-events="none">SA…</text>
+  </g>
+  <g
+     id="g1152"
+     transform="translate(36.594156,-197.45601)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1154"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1156"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1158"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1160"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1162"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1164"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1166"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1168"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1170"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1172"
+     transform="translate(-34.546576,-174.18729)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1174"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1176"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1178"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1180"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1182"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1184"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1186"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1188"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1190"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1192"
+     transform="translate(-107.05675,-155.69097)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1194"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1196"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1198"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1200"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1202"
+       dy="2.03125"
+       font-size="32.5"
+       y="10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1204"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1206"
+       font-size="10px"
+       y="-15"
+       pointer-events="none">After</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1208"
+       font-size="10px"
+       y="-5"
+       pointer-events="none">extensive</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1210"
+       font-size="10px"
+       y="5"
+       pointer-events="none">research</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1212"
+       font-size="10px"
+       y="15"
+       pointer-events="none">scientists</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1214"
+       font-size="10px"
+       y="25"
+       pointer-events="none">all over</text>
+  </g>
+  <g
+     id="g1216"
+     transform="translate(-151.80497,-95.693227)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1218"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1220"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1222"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1224"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1226"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1228"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1230"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1232"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1234"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1236"
+     transform="translate(-186.93722,-29.607305)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1238"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1240"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1242"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1244"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1246"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1248"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1250"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1252"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">But</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1254"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">some</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1256"
+       font-size="10px"
+       y="0"
+       pointer-events="none">new good</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1258"
+       font-size="10px"
+       y="10"
+       pointer-events="none">may come</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1260"
+       font-size="10px"
+       y="20"
+       pointer-events="none">out of all</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1262"
+       font-size="10px"
+       y="30"
+       pointer-events="none">th…</text>
+  </g>
+  <g
+     id="g1264"
+     transform="translate(-62.883022,23.811854)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1266"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1268"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1270"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1272"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1274"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1276"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1278"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1280"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1282"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1284"
+     transform="translate(-164.73742,183.82377)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1286"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1288"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1290"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1292"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1294"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1296"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">SARS is a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1298"
+       font-size="10px"
+       y="0"
+       pointer-events="none">caused by</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1300"
+       font-size="10px"
+       y="10"
+       pointer-events="none">a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1302"
+       font-size="10px"
+       y="20"
+       pointer-events="none">coronav…</text>
+  </g>
+  <g
+     id="g1304"
+     transform="translate(-123.03843,99.930931)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1306"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1308"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1310"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1312"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1314"
+       dy="2.03125"
+       font-size="32.5"
+       y="-5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1316"
+       dy="2.03125"
+       font-size="32.5"
+       y="5"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1318"
+       dy="2.03125"
+       font-size="32.5"
+       y="15"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1320"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">An</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1322"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">example</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1324"
+       font-size="10px"
+       y="0"
+       pointer-events="none">that strikes</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1326"
+       font-size="10px"
+       y="10"
+       pointer-events="none">close to</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1328"
+       font-size="10px"
+       y="20"
+       pointer-events="none">home for</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1330"
+       font-size="10px"
+       y="30"
+       pointer-events="none">us</text>
+  </g>
+  <g
+     id="g1332"
+     transform="translate(260.25961,9.3540591)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1334"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1336"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1338"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1340"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1342"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1344"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1346"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1348"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">On</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1350"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">April 16,</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1352"
+       font-size="10px"
+       y="0"
+       pointer-events="none">the WHO</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1354"
+       font-size="10px"
+       y="10"
+       pointer-events="none">issued a</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1356"
+       font-size="10px"
+       y="20"
+       pointer-events="none">press</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1358"
+       font-size="10px"
+       y="30"
+       pointer-events="none">rel…</text>
+  </g>
+  <g
+     id="g1360"
+     transform="translate(-124.98729,247.34065)"
+     class="node">
+    <circle
+       style="fill:#f16667;stroke:#eb2728;stroke-width:2px"
+       id="circle1362"
+       r="32.5"
+       cy="0"
+       cx="0"
+       class="outline" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1364"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1366"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1368"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1370"
+       font-size="32.5"
+       dy="2.03125"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1372"
+       dy="2.03125"
+       font-size="32.5"
+       y="-10"
+       pointer-events="none" />
+    <text
+       style="font-size:32.5px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1374"
+       dy="2.03125"
+       font-size="32.5"
+       y="0"
+       pointer-events="none" />
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1376"
+       font-size="10px"
+       y="-20"
+       pointer-events="none">It</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1378"
+       font-size="10px"
+       y="-10"
+       pointer-events="none">was</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1380"
+       font-size="10px"
+       y="0"
+       pointer-events="none">quickly</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1382"
+       font-size="10px"
+       y="10"
+       pointer-events="none">understood</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1384"
+       font-size="10px"
+       y="20"
+       pointer-events="none">that</text>
+    <text
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:#ffffff"
+       id="text1386"
+       font-size="10px"
+       y="30"
+       pointer-events="none">SA…</text>
+  </g>
+</svg>
