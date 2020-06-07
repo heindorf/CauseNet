@@ -11,11 +11,11 @@ We provide three versions of our causality graph CauseNet:
 
 ## Statistics
 
-|                    | CauseNet-Full | CauseNet-Precision | CauseNet-Sample |
-| -------------------| ------------: | -----------------: | --------------: |
-| Number of relations|    11,608,812 |            196,481 |             264 |
-| Number of concepts |    12,186,195 |             79,782 |             524 |
-| Storage size       |         4.6GB |              322MB |            54KB |
+|                    |  Relations | Concepts   | File Size |
+| -------------------| ---------: | ---------: | --------: | 
+| CauseNet-Full      | 11,608,812 | 12,186,195 |     4.6GB |
+| CauseNet-Precision |    196,481 |     79,782 |     322MB |
+| CauseNet-Sample    |        264 |        524 |      54KB |
 
 ## Data Model
 
